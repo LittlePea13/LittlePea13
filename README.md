@@ -10,11 +10,12 @@
 
 <table width="100%">
 <tr>
-
+  
 <td align="center">
+<a href="https://littlepea13.github.io">
 <strong>🎓 &nbsp;PhD Student @SapienzaNLP</strong>
+</a>
 <br />
-
 
 </tr>
 </table>
@@ -27,9 +28,8 @@
 <br>
 
 [![Linkedin: perelluis](https://img.shields.io/badge/-perelluis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perelluis)](https://www.linkedin.com/in/perelluis/)&nbsp;&nbsp;
-[![Scholar Riccardo-Orlando](https://img.shields.io/badge/PereLluis-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HeqN6q8AAAAJ)&nbsp;&nbsp;
+[![Scholar Pere-Lluis Huguet Cabot](https://img.shields.io/badge/PereLluis-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HeqN6q8AAAAJ)&nbsp;&nbsp;
 [![GitHub LittlePea13](https://img.shields.io/github/followers/LittlePea13?label=follow&style=social)](https://github.com/LittlePea13)&nbsp;&nbsp;
-[![Twitter PereLluisHC](https://img.shields.io/twitter/follow/PereLluisHC?style=social)](https://twitter.com/PereLluisHC)
 
 <be>
 
@@ -39,6 +39,13 @@
 
 <table width="100%">
 <tr>
+
+<td align="center">
+<strong>🏎️ &nbsp;ReLiK</strong>
+<br />
+<a href="https://github.com/SapienzaNLP/relik"><img height="80%" width="80%" alt="minerva" src="https://opengraph.githubassets.com/14b24a708cf4f623c55033f080efb7f01edd9e9c0e167f792735c969401a792d/SapienzaNLP/relik"> 
+</a>
+</td>
 
 <td align="center">
 <strong>🎓 &nbsp;Minerva LLMs</strong>
